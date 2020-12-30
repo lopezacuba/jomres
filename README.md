@@ -9,11 +9,15 @@ Jomres Quickstarts:
 
 https://github.com/lopezacuba/Quickstarts
 
+http://www.nwbooking.com/Jomres_Booking_System_Files/
+
 ==========================================
 
 Jomres Core Plugins:
 
 https://github.com/lopezacuba/core-plugins
+
+http://www.nwbooking.com/Jomres_Booking_System_Files/
 
 ==========================================
 
