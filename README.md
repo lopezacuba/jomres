@@ -21,6 +21,12 @@ http://www.nwbooking.com/Jomres_Booking_System_Files/
 
 ==========================================
 
+ALL Jomres Plugin Managers
+
+http://www.nwbooking.com/Jomres_Core_Plugin_Managers_All/
+
+==========================================
+
 This means that you ONLY have to download any of my Jomres Quickstarts and never have to worry about your Jomres website expiring and not work anymore. My Quickstarts are more updated.
 
 For more information, please see https://www.jomres.net and the manual at https://www.jomres.net/manual/
